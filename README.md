@@ -1,16 +1,23 @@
-## Hi there 👋
+#Hi, I'm Siva Nagaraju Annabathula
 
-<!--
-**ASivaNagaraju/ASivaNagaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Full-Stack Developer** FastAPI/Django React SQL REST APIS Docker. CI/CD
 
-Here are some ideas to get you started:
+Current project: **TODO APP** (Auth + Django + MySQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write tests with pytest and use GitHub Actions (CI)
+
+Learning: caching, async, system design basics
+
+asnraju1707@gmail.com
+
+## Tech
+
+Python, REST API, Django, React, JavaScript, HTML/CSS, PostgreSQL, Git, Docker, Pytest, GitHub Actions
+
+## Projects (Pinned below)
+
+1. TODO App Auth, search, tests, CI
+
+2. School App - Django + MySQL + async tasks
+
+3. E-Commerce App Django + REST API + React
